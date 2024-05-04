@@ -24,6 +24,7 @@ const App = () => {
       <Contact/>
       <Footer/>
       <FloatingNav/>
+      <About/>
     </main>
   )
 }
